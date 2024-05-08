@@ -45,8 +45,5 @@ This project is licensed under the [MIT License](LICENSE).
 - Since this is a frontend only project, all the data have been collected from [DummyJSON](https://dummyjson.com/).
 - Special thanks to [Tailwind Labs](https://tailwindcss.com/) and [Redux Toolkit](https://redux-toolkit.js.org/) for their amazing tools and documentation.
 
-## Contact
-
-For any inquiries or feedback, feel free to contact [me](mailto:alim1496@gmail.com).
 
 Happy coding! 🚀
