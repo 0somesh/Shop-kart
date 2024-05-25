@@ -8,7 +8,7 @@ const HeroSection: FC = () => {
         <div className="flex items-center">
           <div className="max-w-[450px] space-y-4">
             <p className="text-black">
-              Starting At <span className="font-bold">₹59,999</span>
+              Starting At <span className="font-bold">₹69,999</span>
             </p>
             <h2 className="text-black font-bold text-4xl md:text-5xl">
               Laptop collection 2024
