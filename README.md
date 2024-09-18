@@ -1,6 +1,6 @@
 # Shop Kart - a simple eCommerce app
 
-In this project showcase various features commonly found in e-commerce platforms, including a homepage, product listing page, cart functionality, and user-authenticated pages like account and wishlist. 
+In this project showcase various features commonly found in e-commerce platforms, including a homepage, product listing page, cart functionality, and user-authenticated pages like account & wishlist. 
 
 ## Technologies Used
 
